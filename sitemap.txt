@@ -1,7 +1,9 @@
-https://cnwh.github.io/2017/05/13/hello-world/
+https://cnwh.github.io/about/index2.html
 https://cnwh.github.io/about/index.html
 https://cnwh.github.io/tags/index.html
 https://cnwh.github.io/categories/index.html
+https://cnwh.github.io/2017/05/13/hello-world/
 https://cnwh.github.io/
 https://cnwh.github.io/tags/ios/
 https://cnwh.github.io/tags/games/
+https://cnwh.github.io/categories/blog/
