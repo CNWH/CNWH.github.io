@@ -1,7 +1,7 @@
-http://example.com/2017/05/13/hello-world/
-http://example.com/about/index.html
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/
-http://example.com/tags/ios/
-http://example.com/tags/games/
+https://cnwh.github.io/2017/05/13/hello-world/
+https://cnwh.github.io/about/index.html
+https://cnwh.github.io/tags/index.html
+https://cnwh.github.io/categories/index.html
+https://cnwh.github.io/
+https://cnwh.github.io/tags/ios/
+https://cnwh.github.io/tags/games/
